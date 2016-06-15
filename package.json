@@ -1,0 +1,26 @@
+{
+  "name": "mobile-messaging-connect-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemix-mmc/mobile-messaging-connect-client.git"
+  },
+  "keywords": [
+    "mobile",
+    "messaging"
+  ],
+  "author": "Hao Chen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bluemix-mmc/mobile-messaging-connect-client/issues"
+  },
+  "homepage": "https://github.com/bluemix-mmc/mobile-messaging-connect-client#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
